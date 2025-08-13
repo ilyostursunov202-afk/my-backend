@@ -3,3 +3,4 @@ uvicorn
 pymongo
 python-dotenv
 email-validator
+python-jose
